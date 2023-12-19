@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🥐
 
 <!--
 **nonepork/nonepork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I don't really like those introductions( totally not jealous ),
+so browse my repositories, and let my result speak for itself.
