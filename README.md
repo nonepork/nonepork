@@ -1,6 +1,6 @@
-```python
+```javascript
     ╱|、
-  (˚w 。7
+  (˚､ 。7    Hello~
    |、˜〵
   じしˍ,)ノ
 ```
