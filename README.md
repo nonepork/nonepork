@@ -10,8 +10,9 @@ $ ./banner.sh
 </pre>
 </td>
 <td>
-<p>🔐 ethical Hacker & developer</p>
-<p>🛠️ enjoys tinkering with weird & cool things</p>
+🔐 ethical hacker & developer<br>
+🛠️ enjoys tinkering with weird & cool things<br>
+⌨ from full-stack web development to assembly tetris, but fluent in python
 </td>
 </tr>
 </table>
